@@ -5,14 +5,11 @@ You can click the Preview link to take a look at your changes.
 
 👋 **Привет, я @Nadolina-Kseniia**  
 👀 **Меня интересует**: разработка ПО  
-📚 **Место учёбы**: ОмГТУ  
-📈 **Место работы**: Effective IT-resercher  
-🌱 **Сейчас изучаю**: С#, Team Geek, К. Вигерс  
-💞️ **Ищу возможности для совместной работы**:  
-📬 **Связаться со мной**: [Telegram](https://t.me/nadolina_kseniia ) | [Email](mailto:nadolina.kseniia@gmail.com)  
+📚 **Место учёбы**: ОмГТУ    
+📬 **Связаться со мной**: [Telegram](https://t.me/KseniiaNadolina ) | [Email](mailto:nadolina.kseniia@gmail.com)  
 
 ```python
 # Пример кода, который всегда работает 💡
 print('Hello, World!')
 🎨 Почему мой профиль особенный? : Это репозиторий README.md, который отображается на моём GitHub-профиле!
-Спасибо, что заглянули! Добро пожаловать в мир кода и творчества 🚀
+Спасибо, что заглянули!
